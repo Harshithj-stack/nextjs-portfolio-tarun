@@ -53,8 +53,7 @@ const EmailSection = () => {
     <p className="text-lg text-[#E0E6EB] mb-6 max-w-lg leading-relaxed">
 
       I &#39; currently open to new opportunities! Whether you have a project idea or just want to say hi, feel free to reach out—I &#39; do my best to respond quickly.
-=======
-      I &apos;currently open to new opportunities! Whether you have a project idea or just want to say hi, feel free to reach out—I &apos; ll do my best to respond quickly.
+            I &apos;currently open to new opportunities! Whether you have a project idea or just want to say hi, feel free to reach out—I &apos; ll do my best to respond quickly.
 
     </p>
 
